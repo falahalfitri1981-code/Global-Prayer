@@ -1,0 +1,5 @@
+{
+  "name": "Waktu Sholat Dashboard",
+  "description": "A comprehensive prayer times dashboard with customizable Iqomah timers, real-time clock, and local preference storage.",
+  "requestFramePermissions": ["geolocation"]
+}
